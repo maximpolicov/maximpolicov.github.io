@@ -1,0 +1,27 @@
+div{
+    padding: 20px;
+    width: 980px;
+    margin: auto;
+    background-color: rgb(10, 228, 228);
+    margin-top: 0;
+    border-radius: 16px;
+}
+body{
+    background-color: rgb(5, 255, 255);
+    color: rgb(0, 0, 0);
+    font-family: "Source Sans 3", sans-serif;
+}
+img{
+    margin-left: 200px;
+}
+h1{
+    margin-left: 400px;
+}
+a{
+    text-decoration: none;
+    padding: 4px 20px;
+    border: 2px solid #21325e;
+    border-radius: 16px;
+    color: white;
+    background-color: blue;
+    margin-left: 375px;}
